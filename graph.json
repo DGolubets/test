@@ -1,0 +1,19 @@
+{
+    "description": "Nah",
+    "nodes": [
+      {
+        "id": "dummy-node",
+        "url": "https://raw.githubusercontent.com/DGolubets/test/master/node.py",
+        "params": {
+          "min": 71,
+          "max": 77,
+          "quantity": 2
+        },
+        "deployAs": "azFunc"
+      }
+    ],
+    "edges": [
+    ]
+  }
+  
+  
